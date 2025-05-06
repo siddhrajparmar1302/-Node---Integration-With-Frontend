@@ -1,0 +1,46 @@
+form {
+  margin: 5%;
+}
+div {
+  width: 90%;
+}
+
+input {
+  padding: 11px;
+  width: 25%;
+  margin: 1%;
+  border-radius: 6px;
+}
+
+button.Add-Todo-btn {
+  margin-left: 8%;
+  padding: 9px;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: monospace;
+  background: grey;
+  color: white;
+  width: 13%;
+}
+table {
+  margin-left: 8%;
+}
+
+h2 {
+  margin-left: 6%;
+  margin-bottom: -4%;
+}
+button.delete-btn {
+  padding: 5px;
+  width: 29%;
+  cursor: pointer;
+}
+.edit-btn{
+  padding: 5px;
+  width: 29%;
+  cursor: pointer;
+}
+h3 {
+  margin-left: 8%;
+  font-size: 23px;
+}
